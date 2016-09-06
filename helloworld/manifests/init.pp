@@ -1,4 +1,4 @@
-class pm_motd {
+class helloworld {
     notify { 'hello, world!': }
  }
 
