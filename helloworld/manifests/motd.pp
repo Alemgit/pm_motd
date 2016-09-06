@@ -1,4 +1,4 @@
-class pm_motd::motd {
+class helloworld::motd {
     file { '/etc/motd':
     owner  => 'root',
     group  => 'root',
